@@ -1,0 +1,6 @@
+@BarbeariaApiBackend_HostAddress = http://localhost:5074
+
+GET {{BarbeariaApiBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
